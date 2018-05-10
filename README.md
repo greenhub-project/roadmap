@@ -15,6 +15,8 @@
 - [ ] Release batteryhub 2.0.0
 - [ ] Release fisherman 1.0.0
 
+*Note:* Adopt [https://conventionalcommits.org/](https://conventionalcommits.org/) for all modules
+
 ### Backlog
 - [ ] Draft new module beekeeper (desktop GUI for fisherman)
 - [ ] Redesign [https://greenhubproject.org](https://greenhubproject.org)
