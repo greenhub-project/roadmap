@@ -28,7 +28,7 @@
 - Goal: offer a final stable release for the current version of the Android app
 #### 2.x
 - Status: under discussion
-- Goal: rewrite core components of the Android app + add a recommendations channel and benchmark util
+- Goal: rewrite core components + add a recommendations channel and benchmark util
 
 ### farmer
 - Status: in development
