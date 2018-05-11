@@ -9,6 +9,7 @@
 - [ ] Upgrade lumberjack 
 - [ ] Write full [documentation](https://docs.greenhubproject.org)
 - [ ] Launch *status.greenhubproject.org* to monitor all the other project services
+- [ ] Update privacy policy for GDPR compliance
 
 ### Phase 2
 **Planned release:** Not scheduled
