@@ -8,6 +8,7 @@
 - [ ] Finish the GreenHub REST API
 - [ ] Upgrade lumberjack 
 - [ ] Write full [documentation](https://docs.greenhubproject.org)
+- [ ] Refactor dataset generator script (see [issue](https://github.com/greenhub-project/farmer/issues/4))
 - [x] Launch *status.greenhubproject.org* to monitor all the other project services
 - [ ] Update privacy policy for GDPR compliance
 
