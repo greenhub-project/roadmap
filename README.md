@@ -13,7 +13,7 @@
 - [ ] Update privacy policy for GDPR compliance
 
 ### Phase 2
-**Planned release:** Not scheduled
+**Planned release:** Late 2018
 - [ ] Create a migration helper scripts for the database
 - [ ] Release batteryhub 2.0.0
 - [ ] Release fisherman 1.0.0
