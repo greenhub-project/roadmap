@@ -3,7 +3,7 @@
 ## Core
 
 ### Phase 1 (current)
-**Planned release:** End of May 2018
+**Planned release:** End of June 2018
 - [ ] Release batteryhub 1.2.0
 - [ ] Finish the GreenHub REST API
 - [ ] Upgrade lumberjack 
