@@ -14,7 +14,7 @@
 
 ### Phase 2
 **Planned release:** Late 2018
-- [ ] Create a migration helper scripts for the database
+- [ ] Prepare [migration helper](https://github.com/greenhub-project/migration-helper) scripts for database refactoring
 - [ ] Release batteryhub 2.0.0
 - [ ] Release fisherman 1.0.0
 
@@ -23,7 +23,7 @@
 ### Backlog
 - [ ] Draft new module beekeeper (desktop GUI for fisherman)
 - [ ] Redesign [https://greenhubproject.org](https://greenhubproject.org)
-- [ ] Move snapshot of dataset dump to a mirror location (e.g. *static.greenhubproject.org*)
+- [ ] Move dataset snapshots to a mirror location (e.g. *static.greenhubproject.org*)
 
 ## Modules
 
