@@ -13,7 +13,7 @@
 - [ ] Update privacy policy for GDPR compliance
 
 ### Phase 2
-**Planned release:** Late 2018
+**Planned release:** Early 2019
 - [ ] Prepare [migration helper](https://github.com/greenhub-project/migration-helper) scripts for database refactoring
 - [ ] Release batteryhub 2.0.0
 - [ ] Release fisherman 1.0.0
